@@ -1,7 +1,7 @@
 # java-collections-comparisonJava Collections Performance Comparison
 
 •	Abstract<br>
-<t>Comparison experiment for different Java collection implementations to find out the relationship between the time versus the size of the collection, during retrieving, removing an element from the collection and during for traversing all the elements in each of the collections.<br>
+/tComparison experiment for different Java collection implementations to find out the relationship between the time versus the size of the collection, during retrieving, removing an element from the collection and during for traversing all the elements in each of the collections.<br>
 <br>
 •	Methodology<br>
 Filling the collections with numbers, and measure the time when doing the proses, then print the results in CSV file, and analyze the results using Excel Sheets.<br>
