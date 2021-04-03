@@ -6,7 +6,7 @@ Comparison experiment for different Java collection implementations to find out 
 •	Methodology
 Filling the collections with numbers, and measure the time when doing the proses, then print the results in CSV file, and analyze the results using Excel Sheets.
 
-•	Devise Specification
+•	Devise Specification<br>
 o	System Manufacturer: Dell Inc.
 o	System Model: Inspiron 5567
 o	Operation System: Windows 10 Home 64-bit
